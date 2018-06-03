@@ -1,6 +1,6 @@
 {
   "id": "steamchat",
-  "name": "SteamChat",
+  "name": "Steam",
   "version": "1.0.0",
   "description": "Steam Chat",
   "main": "index.js",
@@ -8,6 +8,7 @@
   "license": "MIT",
   "config": {
     "serviceURL": "https://steamcommunity.com/chat",
+    "hansenFastPreload": true,
     "hasNotificationSound": true
   }
 }
