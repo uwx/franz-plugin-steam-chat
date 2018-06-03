@@ -1,3 +1,5 @@
+'use strict';
+
 module.exports = (Franz) => {
   // from https://github.com/kevinoes/franz-plugin-steam-chat/blob/master/webview.js
   const getMessages = function getMessages() {
